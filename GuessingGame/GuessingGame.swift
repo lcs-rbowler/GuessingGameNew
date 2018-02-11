@@ -12,7 +12,7 @@ struct GuessingGame {
     
     // MARK: Properties
     var numberToGuess : Int
-    var numbersGuessed : [Int] // This is an array
+    var numbersGuessed : [Int] // This is an array9
     
     // MARK: Initializer
     init() {
